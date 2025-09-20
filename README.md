@@ -1,8 +1,9 @@
 # 👋 Hi, I'm JAWAD ELHANI
 
-🎓 Software Engineering student at INPT – Morocco  
-🧑‍💻 Full-stack Developer · Backend & Frontend Enthusiast · UI explorer 
+🎓 **Software Engineering student at INPT – Morocco**  
+💻 *Full-stack Developer · Backend & Frontend Enthusiast · UI explorer*  
 🌍 Passionate about creating impactful digital solutions with global reach
+
 
 ---
 ## 🚀 Projects I'm Proud Of  
