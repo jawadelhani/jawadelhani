@@ -6,31 +6,19 @@
 
 
 ---
-## 🚀 Projects I'm Proud Of  
+## 🎯 Key Projects  
 
 - 🧪 **SEO Audit Automation (Internship – Private Repo)**  
-  Developed an automated **SEO auditing SaaS** optimized for LLMs.  
-  - FastAPI backend with secure **Lemon Squeezy payment integration**  
-  - Automated PDF report generation  
-  - Static frontend with **Next.js + Tailwind CSS**  
-  - SEO tests on real websites with measurable keyword ranking improvements  
+  Automated **SEO auditing SaaS** with **FastAPI**, **Next.js + Tailwind**, PDF reports, and **Lemon Squeezy payments**.  
 
 - 🏛️ [**Customs Regulations Portal**](https://github.com/jawadelhani/RDII) *(Internship Project)*  
-  Full-stack web portal for managing and searching customs regulations.  
-  - **React (TypeScript)** frontend + **Node.js & MySQL** backend  
-  - JWT authentication, protected routes, and PDF export  
-  - Dockerized full-stack deployment  
+  Full-stack portal (**React TS + Node.js + MySQL**) with JWT auth, PDF export, and Docker deployment.  
 
 - 🎮 [**Game Hub**](https://github.com/jawadelhani/game-hub)  
-  Video game discovery app with advanced filtering.  
-  - Built with **React 18, TypeScript, Chakra UI**  
-  - Features: real-time search, dark mode, responsive design  
-  - API integration with RAWG  
+  Game discovery app (**React TS + Chakra UI**) with real-time search, filters, dark mode, and RAWG API integration.  
 
 - 🛫 [**Flight Tickets Manager**](https://github.com/jawadelhani/Flight-Ticket-Java)  
-  Desktop application for managing flight tickets.  
-  - CRUD operations with **Java & JavaFX**  
-  - Simple UI for ticket management  
+  Desktop app (**Java & JavaFX**) for ticket CRUD operations with a simple UI.  
 
 ---
 
@@ -40,7 +28,9 @@
 - **Backend:** Spring Boot ,Node.js  ,FastAPI,  Express 
 - **Databases:** MySQL, MongoDB  
 - **Other:** Docker, Git, REST APIs  
-- **Languages:** Java, Python, TypeScript, JavaScript   
+- **Languages:** Java, Python, TypeScript, JavaScript
+
+  ![My Skills](https://skillicons.dev/icons?i=react,ts,java,spring,tailwind,mysql,figma,github)
 
 
 ---
