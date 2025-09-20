@@ -3,26 +3,20 @@
 💻 *Full-stack Developer · Backend & Frontend Enthusiast · UI explorer*  
 🌍 Passionate about creating impactful digital solutions with global reach
 
-
-<div align="center">
-  <img alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-</div>
-
-
 ---
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 ## 🎯 Key Projects  
 
 - 🧪 **SEO Audit Automation (Internship – Private Repo)**  
   Automated **SEO auditing SaaS** with **FastAPI**, **Next.js + Tailwind**, PDF reports, and **Lemon Squeezy payments**.  
 
 - 🏛️ [**Customs Regulations Portal**](https://github.com/jawadelhani/RDII) *(Internship Project)*  
-  Full-stack portal (**React TS + Node.js + MySQL**) with JWT auth, PDF export, and Docker deployment.  
-
+  Full-stack portal (**React TS + Node.js + MySQL**) with JWT auth, PDF export, and Docker deployment
 - 🎮 [**Game Hub**](https://github.com/jawadelhani/game-hub)  
-  Game discovery app (**React TS + Chakra UI**) with real-time search, filters, dark mode, and RAWG API integration.  
-
+  Game discovery app (**React TS + Chakra UI**) with real-time search, filters, dark mode, and RAWG API integration
 - 🛫 [**Flight Tickets Manager**](https://github.com/jawadelhani/Flight-Ticket-Java)  
-  Desktop app (**Java & JavaFX**) for ticket CRUD operations with a simple UI.  
+  Desktop app (**Java & JavaFX**) for ticket CRUD operations with a simple UI
+
 
 ---
 
