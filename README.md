@@ -12,7 +12,7 @@
 [![Web Development](https://img.shields.io/badge/Web%20Development-Backend%20%7C%20Frontend-green.svg)](#)
 [![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20TypeScript%20%7C%20Python%20%7C%20C%2B%2B-yellow.svg)](#)
 [![Frameworks](https://img.shields.io/badge/Frameworks-SpringBoot%20%7C%20Next.js%20%7C%20FastAPI%20%7C%20React%20%7C%20Node.js-brightgreen.svg)](#)
-[![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20K8s%20%7C%20GitLab%20CI%20%7C%20ArgoCD%20%7C%20Vault-orange.svg)](#)
+[![DevOps](https://img.shields.io/badge/DevOps-Docker%20%7C%20K8s%20%7C%20AWS%20%7C%20GitLab%20CI%20%7C%20ArgoCD%20%7C%20Vault-orange.svg)](#)
 
 <hr>
 
@@ -24,34 +24,25 @@ I am a software engineering student at **INPT** deeply committed to crafting rob
 
 ## 🎯 Key Projects
 
-- 🤖 [**AgileAI**](https://github.com/jawadelhani/LangGraph_orchestration) — `LangGraph` · `FastAPI` · `Next.js` · `Groq` · `PostgreSQL`  
-  AI-powered agile project management platform with 3 orchestrated agents (task generation, sprint planning, auto-assignment). Microservice backend exposed via FastAPI.
-
-- ⚖️ [**Load Balancer**](https://github.com/jawadelhani/Load_Balancer) — `Spring Boot` · `Go`  
-  HTTP reverse proxy distributing requests across 3 backends via Round Robin & Least Connections, with real-time performance metrics.
-
-- 🛡️ **DevOps Travelo** — `Docker` · `Kubernetes` · `GitLab CI` · `ArgoCD` · `Vault`  
-  Full GitOps pipeline: 3-tier containerization (React, Spring Boot, MySQL), CI/CD with security scans, ArgoCD GitOps deployment, secrets management with Vault.
-
-- 🏛️ [**Customs Regulations Portal**](https://github.com/jawadelhani/RDII) *(Internship – ADII)*  
-  Full-stack portal (`React TS` + `Node.js` + `MySQL`) with JWT auth, PDF export, REST API, and Docker deployment.
-
-- 📈 **SEO Audit SaaS** *(Internship – B2BLink, Private Repo)*  
-  Automated SEO auditing platform for LLM-based search engines. `Next.js` + `Tailwind` frontend, `FastAPI` backend, Lemon Squeezy subscription payments.
-
-- 🎮 [**Game Hub**](https://github.com/jawadelhani/game-hub) — `React TS` · `Chakra UI` · `RAWG API`  
-  Game discovery app with real-time search, filters, dark mode, and 500k+ games database.
+| Project | Description | Tech Stack / Architecture | Links |
+|---|---|---|---|
+| **AgileAI** | AI-powered agile project management platform with 3 orchestrated agents (task generation, sprint planning, auto-assignment). | LangGraph · FastAPI · Next.js · Groq · PostgreSQL | [View](https://github.com/jawadelhani/LangGraph_orchestration) |
+| **Load Balancer** | HTTP reverse proxy distributing requests across 3 backends via Round Robin & Least Connections, with real-time performance metrics. | Spring Boot · Go | [View](https://github.com/jawadelhani/Load_Balancer) |
+| **DevOps Travelo** | Full GitOps pipeline: 3-tier containerization with CI/CD security scans, ArgoCD deployment, and secrets management. | Docker · Kubernetes · GitLab CI · ArgoCD · Vault | — |
+| **Customs Regulations Portal** | Full-stack portal with JWT auth, PDF export, REST API, and Docker deployment. *(Internship – ADII)* | React TS · Node.js · MySQL | [View](https://github.com/jawadelhani/RDII) |
+| **SEO Audit SaaS** | Automated SEO auditing platform for LLM-based search engines with subscription payments. *(Internship – B2BLink)* | Next.js · Tailwind · FastAPI · Lemon Squeezy | — |
+| **Game Hub** | Game discovery app with real-time search, filters, dark mode, and 500k+ games database. | React TS · Chakra UI · RAWG API | [View](https://github.com/jawadelhani/game-hub) |
 
 <hr>
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,java,spring,python,fastapi,nodejs,docker,kubernetes,postgres,mysql,git,linux,figma)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,java,spring,python,fastapi,nodejs,docker,kubernetes,aws,postgres,mysql,git,linux,figma)
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Chakra UI
 - **Backend:** Spring Boot, Node.js, FastAPI, Express
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, GitLab CI, ArgoCD, Vault
+- **DevOps:** Docker, Kubernetes, AWS, GitLab CI, ArgoCD, Vault
 - **Languages:** Java, TypeScript, Python, JavaScript, C++
 - **Tools:** Git, GitHub, GitLab, Postman, Jira, Figma, Linux
 
@@ -70,18 +61,20 @@ I am a software engineering student at **INPT** deeply committed to crafting rob
 
 ## 🌍 Let's Connect
 
-<a href="https://www.linkedin.com/in/jawad-elhani/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-📧 [jawadelhani163@gmail.com](mailto:jawadelhani163@gmail.com)  
-🧩 [LeetCode](https://leetcode.com/u/jawad1010/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jawad-elhani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-jawad--elhani-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:jawadelhani163@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jawadelhani163-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/jawad1010/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-jawad1010-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
 <hr>
-
-<div align="center">
-  <h5>Random Programming Joke</h5>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
-</div>
 
 💡 Building scalable and reliable software solutions.
